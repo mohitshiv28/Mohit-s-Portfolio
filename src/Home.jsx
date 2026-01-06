@@ -118,7 +118,7 @@ const Home = () => {
         </a>
 
         {/* Hero Footer Info */}
-        <div className="mt-auto flex w-full py-7 justify-between text-sm uppercase font-medium">
+        <div className="mt-auto flex w-full py-10 md:py-7 justify-between text-sm uppercase font-medium">
           <span className="flex-center gap-2 footertext">
             <FaLocationArrow />
             IN SHIVPURI

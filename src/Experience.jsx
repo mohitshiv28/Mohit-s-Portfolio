@@ -84,7 +84,7 @@ const Experience = () => {
             </div>
 
             {/* Role */}
-            <div className="md:w-fit uppercase bg-[#0a0a0a] py-2 px-3 mt-2 font-medium text-sm cursive rounded-md">
+            <div className="w-fit uppercase bg-[#0a0a0a] py-2 px-3 mt-2 font-medium text-sm cursive rounded-md">
               • {exp.role}
             </div>
 
