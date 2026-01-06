@@ -1,0 +1,22 @@
+@import "tailwindcss";
+body {
+  background-color: #0a0a0a;
+  font-family: "Inter", sans-serif;
+}
+
+@layer utilities {
+  .flex-center {
+    @apply flex justify-center items-center;
+  }
+  .cursive {
+    font-family: "Shantell Sans", cursive;
+  }
+  .titlefont {
+    font-family: "Bricolage Grotesque", sans-serif;
+  }
+}
+.bgpattern {
+  background-image: url("./assets/bgfooter.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
