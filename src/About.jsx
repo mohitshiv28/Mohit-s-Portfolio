@@ -145,7 +145,7 @@ const About = () => {
             organization.
           </div>
           <a
-            href="#"
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=mohitshivhare486@gmail.com&su=Contact%20Request&body=Hello%20Mohit"
             className="w-12 h-12 rounded-full bg-white text-black flex-center"
           >
             <BsArrowUpRight className="h-5 w-5" />

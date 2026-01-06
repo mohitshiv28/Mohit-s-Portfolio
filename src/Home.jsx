@@ -74,7 +74,7 @@ const Home = () => {
 
   return (
     <section id="home" className="min-h-screen w-full text-white">
-      <div className="mx-auto h-screen flex w-full flex-col items-center px-5 pt-28 md:px-16">
+      <div className="mx-auto h-screen flex w-full flex-col items-center px-5 pt-35 md:pt-28 md:px-16">
         {/* Profile Image */}
         <div className="h-64 w-64 overflow-hidden rounded-full ani-img">
           <img
